@@ -1,6 +1,9 @@
 _repo: Chinese-vs-Negroes-as-American-Citizens-Mr-Scottron-s-Views-on-the-Advantages-of-the-Proposed__65455
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Chinese Versus Negroes as American Citizens
+covers:
+- cover_type: archival
+  image_path: 65455-h/images/cover.jpg
 creator:
   author:
     agent_name: Scottron, Samuel Raymond
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53358
     wikipedia: https://en.wikipedia.org/wiki/Samuel_R._Scottron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65455#Chinese-vs-Negroes-as-American-Citizens-Mr-Scottron-s-Views-on-the-Advantages-of-the-Proposed_
 gutenberg_issued: '2021-05-27'
 gutenberg_type: Text
 identifiers:
