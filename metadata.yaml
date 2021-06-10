@@ -1,0 +1,30 @@
+_repo: Chinese-vs-Negroes-as-American-Citizens-Mr-Scottron-s-Views-on-the-Advantages-of-the-Proposed__65455
+_version: 0.0.1
+alternative_title: Chinese Versus Negroes as American Citizens
+creator:
+  author:
+    agent_name: Scottron, Samuel Raymond
+    alias: Scottron, S. R. (Samuel Raymond)
+    birthdate: 1841
+    deathdate: 1908
+    gutenberg_agent_id: '53358'
+    url: http://www.gutenberg.org/2009/agents/53358
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_R._Scottron
+description: ''
+gutenberg_issued: '2021-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65455'
+  lccn: '12005294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcc 'E151'
+- !lcsh 'African Americans -- Colonization -- South America'
+- GITenberg
+title: "Chinese vs. Negroes as American Citizens\r\nMr. Scottron's Views on the Advantages\
+  \ of the Proposed Negro Colonization in South America"
+url: http://www.gutenberg.org/ebooks/65455
